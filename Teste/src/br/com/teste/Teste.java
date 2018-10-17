@@ -8,5 +8,5 @@ package br.com.teste;
  * Teste Git
  */
 public class Teste {
-
+ //TESTE COMMIT
 }
